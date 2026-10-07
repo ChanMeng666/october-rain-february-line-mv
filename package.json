@@ -2,7 +2,7 @@
   "name": "october-rain-february-line-mv",
   "private": true,
   "type": "module",
-  "description": "Two music videos rendered from code with the mg-styles-15 skill: 十月的微雨 (cel / line boil) and 二月的延长线 (one-line animation)",
+  "description": "Two music videos rendered from code with the mg-styles-15 method: A Drizzle in October (cel / line boil) and February, on an Extended Line (one-line animation)",
   "scripts": {
     "render": "node harness/render.mjs"
   },
