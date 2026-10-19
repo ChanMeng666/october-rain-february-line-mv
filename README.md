@@ -10,13 +10,21 @@
 
 ### A Drizzle in October · 十月的微雨
 
-<!-- FILM: a-drizzle-in-october · 16:9, 5:24 — Chan uploads the video here in GitHub's web editor -->
+
+
+https://github.com/user-attachments/assets/8c3c9923-dd13-46d7-a929-32ce4665a65d
+
+
 
 ▶ Watch on YouTube: https://youtu.be/X3nUfLHawq4
 
 ### February, on an Extended Line · 二月的延长线
 
-<!-- FILM: february-on-an-extended-line · 16:9, 5:14 — Chan uploads the video here in GitHub's web editor -->
+
+
+https://github.com/user-attachments/assets/e72e1edf-3040-4ac9-b91e-2344f45a57b5
+
+
 
 ▶ Watch on YouTube: https://youtu.be/B1q5akx2zPk
 
